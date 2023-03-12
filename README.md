@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Twitter Clone
+- 🔭 I’m currently working on Diet App for Nutritionist
 
 [![Profile views: YMirzaa](https://gpvc.arturio.dev/YMirzaa)](https://github.com/YMirzaa)
 [![Linkedin: YMirzaa](https://img.shields.io/badge/-Follow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yusuf-mirza-%C3%B6ks%C3%BCz-b03409168/)](https://www.linkedin.com/in/yusuf-mirza-%C3%B6ks%C3%BCz-b03409168/)
