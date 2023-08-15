@@ -33,11 +33,11 @@ As a perpetual learner, I'm always seeking out new challenges and opportunities 
 You can find me on [LinkedIn](https://www.linkedin.com/in/yusuf-mirza-altay-b03409168/). Let's connect and talk about software development!
 
 
+<!--
+### SkillSet
 [![Profile views: YMirzaa](https://gpvc.arturio.dev/YMirzaa)](https://github.com/YMirzaa)
 [![Linkedin: YMirzaa](https://img.shields.io/badge/-Follow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yusuf-mirza-%C3%B6ks%C3%BCz-b03409168/)](https://www.linkedin.com/in/yusuf-mirza-%C3%B6ks%C3%BCz-b03409168/)
 [![mail: ymirzaa](https://img.shields.io/badge/-Mail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ymiirza@gmail.com)](mailto:ymiirza@gmail.com)
-<!--
-### SkillSet
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
