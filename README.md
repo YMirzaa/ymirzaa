@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Mirza 👋</h1>
   <h3>Computer Engineering Student | Full-Stack Developer </h3>
   <br>
-  <a href="http://www.nutriconn.com/"><img src="https://img.shields.io/badge/Nutriconn-Digitized_entire_workflow_of_dietitians-orange"></a>
+  <a href="http://nutriconn.com/"><img src="https://img.shields.io/badge/Nutriconn-Digitized_entire_workflow_of_dietitians-orange"></a>
   <a href="https://senior.ceng.metu.edu.tr/2023/revo/"><img src="https://img.shields.io/badge/REVO-Blockchain_based_vote_counting_app-blue"></a>
   <br>
   <br>
@@ -19,7 +19,7 @@ As a perpetual learner, I'm always seeking out new challenges and opportunities 
 
 ## 🚀 My Projects
 
-- [Nutriconn](http://www.nutriconn.com/) - Completely digitized the entire workflow of dietitians with my friends
+- [Nutriconn](http://nutriconn.com/) - Completely digitized the entire workflow of dietitians with my friends
 - [REVO](https://senior.ceng.metu.edu.tr/2023/revo/) - My graduation project. Managed the complete development and maintenance of a mobile app.
 
 ## 🛠️ Skills and Technologies
