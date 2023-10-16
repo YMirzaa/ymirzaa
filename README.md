@@ -20,6 +20,7 @@ Constantly driven to acquire fresh knowledge and confront novel challenges, I'm 
 
 - [Nutriconn](http://nutriconn.com/) - Together with my friend, I revolutionized the daily routines of dietitians through digitization.
 - [REVO](https://senior.ceng.metu.edu.tr/2023/revo/) - My graduation endeavor. I steered the development and upkeep of a mobile app with a blockchain-based vote counting mechanism.
+- [Search Engine - Static Term Result Caching in Term-Based Partition](https://github.com/YMirzaa/Search-Engine-CENG778)
 
 ## 🛠️ Crafting with Technology
 
