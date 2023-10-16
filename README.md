@@ -18,7 +18,7 @@ Constantly driven to acquire fresh knowledge and confront novel challenges, I'm 
 
 ## 👨‍💻 Diving into Code
 
-- [Nutriconn](http://nutriconn.com/) - Together with my friends, I revolutionized the daily routines of dietitians through digitization.
+- [Nutriconn](http://nutriconn.com/) - Together with my friend, I revolutionized the daily routines of dietitians through digitization.
 - [REVO](https://senior.ceng.metu.edu.tr/2023/revo/) - My graduation endeavor. I steered the development and upkeep of a mobile app with a blockchain-based vote counting mechanism.
 
 ## 🛠️ Crafting with Technology
