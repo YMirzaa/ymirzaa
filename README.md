@@ -1,37 +1,37 @@
 <div align="center">
-  <h1>Hi there, I'm Mirza 👋</h1>
-  <h3>Computer Engineering Student | Full-Stack Developer </h3>
+  <h1>Hello, I'm Mirza 👋</h1>
+  <h3>Aspiring Computer Engineer | Enthusiastic Full-Stack Developer</h3>
   <br>
   <a href="http://nutriconn.com/"><img src="https://img.shields.io/badge/Nutriconn-Digitized_entire_workflow_of_dietitians-orange"></a>
-  <a href="https://senior.ceng.metu.edu.tr/2023/revo/"><img src="https://img.shields.io/badge/REVO-Blockchain_based_vote_counting_app-blue"></a>
+  <a href="https://senior.ceng.metu.edu.tr/2023/revo/"><img src="https://img.shields.io/badge-REVO-Blockchain_based_vote_counting_app-blue"></a>
   <br>
   <br>
 </div>
 
-## 👨‍💻 About Me
+## 🚀 My Journey
 
-Hey there, I'm Mirza, a computer engineering student with a passion for building cool things with code. I'm a full-stack developer with a focus on frontend and backend development, and a love for exploring the latest technologies and tools. 
+Greetings, I'm Mirza, and my academic path centers on computer engineering. In the world of coding, I'm a full-stack developer, deeply passionate about constructing innovative solutions. My interests span both frontend and backend development, and I thrive on exploring the latest tools and technologies.
 
-With a GPA of 3.04, I've gained hands-on experience in a variety of tech stacks including React, Java, Git, Node.js, Data Structures, Algorithms, and C++. 
+I've cultivated practical skills across various tech domains, such as React, Java, Node.js, Git, C++, Algorithms, and Data Structures, maintaining a GPA of 3.04.
 
-As a perpetual learner, I'm always seeking out new challenges and opportunities to grow my skills as a developer. If you're looking for a dedicated and enthusiastic teammate for your next project, feel free to get in touch!
+Constantly driven to acquire fresh knowledge and confront novel challenges, I'm always on the lookout for opportunities to hone my skills as a developer. If you're searching for a committed, high-spirited teammate for your next project, don't hesitate to reach out!
 
+## 👨‍💻 Diving into Code
 
-## 🚀 My Projects
+- [Nutriconn](http://nutriconn.com/) - Together with my friends, I revolutionized the daily routines of dietitians through digitization.
+- [REVO](https://senior.ceng.metu.edu.tr/2023/revo/) - My graduation endeavor. I steered the development and upkeep of a mobile app with a blockchain-based vote counting mechanism.
 
-- [Nutriconn](http://nutriconn.com/) - Completely digitized the entire workflow of dietitians with my friends
-- [REVO](https://senior.ceng.metu.edu.tr/2023/revo/) - My graduation project. Managed the complete development and maintenance of a mobile app.
+## 🛠️ Crafting with Technology
 
-## 🛠️ Skills and Technologies
-- 💻 JavaScript, HTML, CSS
-- ⚛️ React, Node.js, Express.js
-- 🗃️ Git, GitHub
-- 📊 SQL, PostgreSQL
-- 🐝 Java, Spring Boot
+- 💻 Proficient in JavaScript, HTML, and CSS
+- ⚛️ Versed in React, Node.js, and Express.js
+- 🗃️ Expert in Git and GitHub
+- 📊 Skilled in SQL and PostgreSQL
+- 🐝 Competent in Java and Spring Boot
 
-## 📫 Contact Me
-You can find me on [LinkedIn](https://www.linkedin.com/in/yusuf-mirza-altay-b03409168/). Let's connect and talk about software development!
+## 📫 Connect with Me
 
+Catch up with me on [LinkedIn](https://www.linkedin.com/in/yusuf-mirza-altay-b03409168/). Let's discuss the world of software development!
 
 <!--
 ### SkillSet
