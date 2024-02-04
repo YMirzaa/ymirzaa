@@ -17,7 +17,8 @@ I've cultivated practical skills across various tech domains, such as React, Jav
 Constantly driven to acquire fresh knowledge and confront novel challenges, I'm always on the lookout for opportunities to hone my skills as a developer. If you're searching for a committed, high-spirited teammate for your next project, don't hesitate to reach out!
 
 ## 👨‍💻 Diving into Code
-
+- [AI-Platform](https://github.com/YMirzaa/AI-Platform) - Created an AI Platform to generate image, video, text, code, and music which is connected to Open AI's API. 
+- [Employee Management Dashboard](https://github.com/YMirzaa/Employee-Management-Dashboard) - I developed an Employee Management Dashboard for Internship Project. Used Spring, Next.js and AWS S3. 
 - [Nutriconn](http://nutriconn.com/) - Together with my friend, I revolutionized the daily routines of dietitians through digitization.
 - [REVO](https://senior.ceng.metu.edu.tr/2023/revo/) - My graduation endeavor. I steered the development and upkeep of a mobile app with a blockchain-based vote counting mechanism.
 - [Search Engine - Static Term Result Caching in Term-Based Partition](https://github.com/YMirzaa/Search-Engine-CENG778)
