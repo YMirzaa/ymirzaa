@@ -17,8 +17,8 @@ Constantly driven to acquire fresh knowledge and confront novel challenges, I'm 
 ## 👨‍💻 Diving into Code
 - [AI-Platform](https://github.com/YMirzaa/AI-Platform) - Created an AI Platform to generate image, video, text, code, and music which is connected to Open AI's API. 
 - [Employee Management Dashboard](https://github.com/YMirzaa/Employee-Management-Dashboard) - I developed an Employee Management Dashboard for Internship Project. Used Spring, Next.js and AWS S3.
-- [Chat Application With Java Socket](https://github.com/YMirzaa/Socket-Chat) - I created a chat application with Java-Spring for the backend, React.js for the frontend. Used STOMP.js for the socket connection.
-- [Nutriconn](http://nutriconn.com/) - Together with my friend, I revolutionized the daily routines of dietitians through digitization.
+- [Chat Application With Java Socket](https://github.com/YMirzaa/Socket-Chat) - I created a chat application with Java, Spring, and React.js techonologies. Used STOMP.js for the socket connection.
+- [Nutriconn](http://nutriconn.com/) - Together with my friend, we created an application for the daily routines of dietitians through digitization.
 - [REVO](https://senior.ceng.metu.edu.tr/2023/revo/) - My graduation endeavor. I steered the development and upkeep of a mobile app with a blockchain-based vote counting mechanism.
 - [Search Engine - Static Term Result Caching in Term-Based Partition](https://github.com/YMirzaa/Search-Engine-CENG778)
 
