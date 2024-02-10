@@ -25,7 +25,7 @@ Constantly driven to acquire fresh knowledge and confront novel challenges, I'm 
 ## 🛠️ Crafting with Technology
 
 - 💻 Proficient in JavaScript, HTML, and CSS
-- ⚛️ Versed in React, Node.js, and Express.js
+- ⚛️ Versed in React, Next.js
 - 🗃️ Expert in Git and GitHub
 - 📊 Skilled in SQL and PostgreSQL
 - 🐝 Competent in Java and Spring Boot
