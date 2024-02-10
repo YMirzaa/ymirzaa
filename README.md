@@ -3,7 +3,7 @@
   <h3>Aspiring Computer Engineer | Enthusiastic Full-Stack Developer</h3>
   <br>
 <!--   <a href="http://nutriconn.com/"><img src="https://img.shields.io/badge/Nutriconn-Digitized_entire_workflow_of_dietitians-orange"></a> -->
-  <a href="https://senior.ceng.metu.edu.tr/2023/revo/"><img src="https://img.shields.io/badge-REVO-Blockchain_based_vote_counting_app-blue"></a>
+<!--   <a href="https://senior.ceng.metu.edu.tr/2023/revo/"><img src="https://img.shields.io/badge-REVO-Blockchain_based_vote_counting_app-blue"></a> -->
   <br>
   <br>
 </div>
