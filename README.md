@@ -2,7 +2,7 @@
   <h1>Hello, I'm Mirza 👋</h1>
   <h3>Aspiring Computer Engineer | Enthusiastic Full-Stack Developer</h3>
   <br>
-  <a href="http://nutriconn.com/"><img src="https://img.shields.io/badge/Nutriconn-Digitized_entire_workflow_of_dietitians-orange"></a>
+<!--   <a href="http://nutriconn.com/"><img src="https://img.shields.io/badge/Nutriconn-Digitized_entire_workflow_of_dietitians-orange"></a> -->
   <a href="https://senior.ceng.metu.edu.tr/2023/revo/"><img src="https://img.shields.io/badge-REVO-Blockchain_based_vote_counting_app-blue"></a>
   <br>
   <br>
@@ -18,7 +18,8 @@ Constantly driven to acquire fresh knowledge and confront novel challenges, I'm 
 
 ## 👨‍💻 Diving into Code
 - [AI-Platform](https://github.com/YMirzaa/AI-Platform) - Created an AI Platform to generate image, video, text, code, and music which is connected to Open AI's API. 
-- [Employee Management Dashboard](https://github.com/YMirzaa/Employee-Management-Dashboard) - I developed an Employee Management Dashboard for Internship Project. Used Spring, Next.js and AWS S3. 
+- [Employee Management Dashboard](https://github.com/YMirzaa/Employee-Management-Dashboard) - I developed an Employee Management Dashboard for Internship Project. Used Spring, Next.js and AWS S3.
+- [Chat Application With Java Socket](https://github.com/YMirzaa/Socket-Chat) - I created a chat application with Java-Spring for backend, React.js for the frontend. Used STOMP.js for the socket connection.
 - [Nutriconn](http://nutriconn.com/) - Together with my friend, I revolutionized the daily routines of dietitians through digitization.
 - [REVO](https://senior.ceng.metu.edu.tr/2023/revo/) - My graduation endeavor. I steered the development and upkeep of a mobile app with a blockchain-based vote counting mechanism.
 - [Search Engine - Static Term Result Caching in Term-Based Partition](https://github.com/YMirzaa/Search-Engine-CENG778)
