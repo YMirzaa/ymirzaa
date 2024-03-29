@@ -1,12 +1,12 @@
 <div align="center">
   <h1>Hello, I'm Mirza 👋</h1>
-  <h3>Aspiring Computer Engineer | Enthusiastic Full-Stack Developer</h3>
-  <br>
+<!--   <h3>Aspiring Computer Engineer | Enthusiastic Full-Stack Developer</h3>
+  <br> -->
 <!--   <a href="http://nutriconn.com/"><img src="https://img.shields.io/badge/Nutriconn-Digitized_entire_workflow_of_dietitians-orange"></a> -->
 <!--   <a href="https://senior.ceng.metu.edu.tr/2023/revo/"><img src="https://img.shields.io/badge-REVO-Blockchain_based_vote_counting_app-blue"></a> -->
 </div>
 
-## 🚀 My Journey
+## 🚀 About Me
 
 I am a newly graduated engineer who specializes in full-stack development, focusing on Java/Spring for backend development and React/Next.js for frontend development.
 
